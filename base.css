@@ -1,0 +1,16 @@
+@charset "utf-8";
+body h1 {
+	color: #DB72FB;
+	font-family: "ＭＳ Ｐゴシック", "ＭＳ Ｐ明朝", "MS UI Gothic", "ＭＳ ゴシック";
+}
+body p img {
+	background-color: #CDBC85;
+}
+.key {
+	color: #3E15EF;
+	font-family: "ＭＳ Ｐゴシック", "ＭＳ Ｐ明朝", "MS UI Gothic", "ＭＳ ゴシック";
+	font-size: x-large;
+}
+body {
+	background-image: url(images.jpg);
+}
